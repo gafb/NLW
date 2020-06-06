@@ -1,3 +1,8 @@
 server/node_modules
+server/uploads/*
+!server/uploads/.gitkeep
+.sqlite
 dia-2.zip
 dia-3.zip
+dia-4.zip
+dia-5.zip
